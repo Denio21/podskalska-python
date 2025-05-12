@@ -5,7 +5,7 @@ print("😎 VELMI CHYTRÁ KALKULAČKA");  # Úvodní hláška kalkulačky
 print(divider);  # Vytiskne oddělovač
 print("Jsem kalkulačka, která ti provede libovolný výpočet mezi dvěmi čísly");  # Krátké info o funkcionalitě
 
-# Spustí nekonečný cyklus - program se opakuje, dokud uživatel nezvolí konec
+# Spustí nekonečný cyklus - program se opakuje, dokud uživatel nezvolí konec (probereme později, pouze kosmetická věc)
 while True:
     print(divider,"\n");  # Vytiskne oddělovač a prázdný řádek pro přehlednost
 
